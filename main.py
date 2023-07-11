@@ -129,10 +129,9 @@ if __name__ == "__main__":
     type_of_probability = False  # Distribuzione di probabilità a scelta tra Normale (False) e Uniforme (True)
 
     deterministic_alg_static_threshold()
-    """deterministic_alg_degree_threshold()
+    deterministic_alg_degree_threshold()
     deterministic_alg_random_threshold()
 
     probabilistic_alg_static_threshold()
     probabilistic_alg_degree_threshold()
     probabilistic_alg_random_threshold()
-"""
